@@ -19,4 +19,4 @@ Implementar una aplicación móvil nativa o nativa-híbrida que permita a un gru
 ## Aplicaciones desplegadas:
 
 > ######  [Aplicación móvil APK](https://youtu.be/T1SgVZopxSE)
-> > ######  [Aplicación Web](https://appweb-bcd38.web.app/)
+> ######  [Aplicación Web](https://appweb-bcd38.web.app/)
