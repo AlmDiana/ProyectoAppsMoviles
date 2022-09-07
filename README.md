@@ -15,3 +15,7 @@ Implementar una aplicación móvil nativa o nativa-híbrida que permita a un gru
 > ######  [Explicación Técnica](https://youtu.be/T1SgVZopxSE)
 
 > ######  [Manual de usuario](https://youtu.be/MsEs8JwysdI)
+
+## Despliegue:
+> ######  [Aplicación móvil](https://youtu.be/T1SgVZopxSE)
+> ######  [Aplicación web](https://appweb-bcd38.web.app/)
