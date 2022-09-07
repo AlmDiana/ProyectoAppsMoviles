@@ -12,10 +12,10 @@ Implementar una aplicación móvil nativa o nativa-híbrida que permita a un gru
 
 
 ## Enlaces a videos:
-> ######  [Explicación Técnica](https://youtu.be/T1SgVZopxSE)
+> ######  [Explicación Técnica](https://youtu.be/40yfeADLIfQ)
 
 > ######  [Manual de usuario](https://youtu.be/MsEs8JwysdI)
 
 ## Despliegue:
-> ######  [Aplicación móvil](https://youtu.be/T1SgVZopxSE)
+> ######  [Aplicación móvil](https://github.com/AlmDiana/ProyectoAppsMoviles/tree/master/APK)
 > ######  [Aplicación web](https://appweb-bcd38.web.app/)
